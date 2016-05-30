@@ -1,0 +1,14 @@
+{
+  "name": "changethewords",
+  "homepage": "https://github.com/ataluttasgiran/changethewords",
+  "_release": "9bc778a269",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9bc778a269568aaa4e0e94bd39972fa84e1ac9b4"
+  },
+  "_source": "https://github.com/ataluttasgiran/changethewords.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/ataluttasgiran/changethewords.git",
+  "_direct": true
+}
